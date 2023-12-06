@@ -20,6 +20,6 @@ By employing debouncing and throttling techniques in your JavaScript application
 
 Remember to adapt the debounce and throttle intervals to suit your specific use case and requirements.
 
-Feel free to explore the repository for ready-to-use implementations and further customization.
+Feel free to explore the repository for ready-to-use implementations and further customization
 
 [check appliation here](https://mittalaakash.github.io/deabounce-and-throttle/)
